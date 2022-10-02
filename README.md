@@ -1,14 +1,13 @@
-# thQuant
-
-Project page for Thirdhalf.com
+# Thirdhalf.com
 
 
-Active project:
+Active projects:
 
 
 thCurrency is a tool to track and manage currency commodities.
 
-
+https://play.google.com/store/apps/details?id=com.thirdhalf.thcurrency&hl=en_US&gl=US
+https://apps.apple.com/us/app/thcurrency/id1239862206
 
 thQuant is a software tool for simulating market scenarios.
 
