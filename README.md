@@ -17,7 +17,7 @@ https://itunes.apple.com/us/app/thquant/id1350128688?mt=8
 
 https://play.google.com/store/apps/details?id=com.thirdhalf.thquant
 
-Help and comments welcome.   
+
 
 
 
